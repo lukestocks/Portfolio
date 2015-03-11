@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=description content>
+<meta name=author content>
+<title>Luke Stocks - Web Developer</title>
+<link href=css/bootstrap.min.css rel=stylesheet>
+<link href=css/bootstrap-social.css rel=stylesheet>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href=css/one-page-wonder.css rel=stylesheet>
+<!--[if lt IE 9]>
+<script src=https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js></script>
+<script src=https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js></script>
+<![endif]-->
+</head>
+<nav class="navbar navbar-default navbar-fixed-top" role=navigation>
+<div class=container>
+<div class=navbar-header>
+<button type=button class=navbar-toggle data-toggle=collapse data-target=#bs-example-navbar-collapse-1>
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+</button>
+<a class=navbar-brand href=#>Luke Stocks</a>
+</div>
+<div class="collapse navbar-collapse" id=bs-example-navbar-collapse-1>
+<ul class="nav navbar-nav">
+<li>
+<a href=#portfolio>Portfolio</a>
+</li>
+<li>
+<a href=#about>About</a>
+</li>
+<li>
+<a href=#contact>Contact</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<body>
+<header class=header-image>
+<div class=headline>
+<div class=container>
+<h1 style=" background-color: white;">Luke Stocks</h1>
+<h4>Web Designer | Web Developer | User Interface Designer</h4>
+Luke Matthew Stocks</br>
+Email: l.stocks16494@gmail.com<br>
+<p>
+</br>
+<a href="http://twitter.com" class="btn btn-social-icon btn-twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+<a href="http://uk.linkedin.com/in/lukestocks" class="btn btn-social-icon btn-linkedin">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  <a href="https://github.com/settings/repositories" class="btn btn-social-icon btn-github">
+    <i class="fa fa-github"></i>
+  </a>
+  <a href="http://facebook.com" class="btn btn-social-icon btn-facebook">
+    <i class="fa fa-facebook"></i>
+  </a>
+</p>
+</div>
+</div>
+</header>
+<hr>
+<div class=container>
+<p><h1 id=portfolio style="font-size:70px;text-decoration:underline">Portfolio</h1></p>
+<div class=featurette>
+<a href=http://suttonmethodistscouts.org.uk><img class="featurette-image img-thumbnail img-responsive pull-right" src=img/Sc_Chef_RGB-500x500.jpg><br>
+</a>
+<h2 class=featurette-heading>Sutton Methodist Scout Group Website<br>
+<span class=text-muted>Leeds Beckett University Project</span></span>
+</h2>
+<a href=http://suttonmethodistscouts.org.uk><p>Visit the site</p></a>
+<p class=lead>Working with leaders in the Sutton Methodist Scout Group, this website offers information and tutorials for the children and teenagers in the different sections. The website consists of several different pages that have been created
+to ensure users have an easy experience diecting around the website. <br></p>
+<p><h2>Keep Looking&nbsp;<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></h2></p>
+</div>
+<div class=featurette>
+<hr class=featurette-divider>
+<img class="featurette-image img-circle img-responsive pull-left" src="img/Untitled.png">
+<h2 class=featurette-heading>BeLessBored.com<br>
+<span class=text-muted>Helping you waste time correctly.</span>
+</h2>
+<a href=http://belessbored.com><p>Visit the site</p></a>
+<p class=lead><font color="#FF33CC">Be</font><font color="blue">Less</font><font color="#00FF00">Bored</font>.com is a website created for people to access when they are bored and have ran out of things to do. This website offers the user different games/activities to try out that they may not have played or tried before or that they may just not remember were fun. The website uses bootstrap front end framework, it's very mobile friendly and simple to navigate.</p>
+<p><h2>There's more!&nbsp;<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></h2></p>
+</div>
+<hr>
+<div class=featurette>
+<a href=http://lukestocks.co.uk/internetA/index><img class="featurette-image img-thumbnail img-responsive pull-right" src=img/kmlml.jpg><br>
+</a>
+<h2 class=featurette-heading>Web Application Development<br>
+<span class=text-muted>Leeds Beckett University Module</span></span>
+</h2>
+<a href=http://lukestocks.co.uk/internetA/index><p>Visit the site</p></a>
+<p class=lead>With tasked to show variability in my work and demonstrate different functionality in my Advanced Internet Development 'A' module, I used a Skeleton front end framework to produce this website. The site shows both back end and front end coding techniques. </p>
+<p><h2>Learn more about me!&nbsp;<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></h2></p>
+</div>
+<hr class=featurette-divider>
+<h1 id=about>About Luke</h1>
+<p class=lead>I am a <b>Website Designer</b> and <b>Developer</b> with fresh, new ideas. I am a firm believer that websites should be <b>simple</b> and <b>pure</b>. Users should be able to <b>navigate them with ease</b> and find what they’re looking for in the least amount of clicks possible. </p>
+<p class=lead style="font-style: italic;">“Why would a company confuse the very people they need in order to make the business exist in the first place?” </p>
+<p class=lead>From start-up companies to existing companies looking to rejuvenate life into their online presence by having the right ideas, productivity can always be boosted.
+</p>
+<h1>Skills</h1>
+<p style="font-size:20px">
+Through a degree in Computing BSc (Hons) I have developed the following skills in different modules.
+<li>PHP</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap Framework</li>
+<li>Javascript</li>
+<li>JQuery</li>
+<li>SQL</li>
+<li>Database Work (Oracle, PHP MyAdmin)</li>
+</p>
+<p>
+<h3>More information can be found <a href="http://uk.linkedin.com/in/lukestocks">here</a> on my LinkedIn presence.</h3>
+</p>
+<p><h2>Get in touch!&nbsp;<span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></h2></p>
+<hr class=featurette-divider>
+<h1 id=contact>Contact Luke</h1>
+<p class=lead>Hull and Leeds Based Web Designer and Developer.
+</p>
+<?php
+function spamcheck($field) {
+  // Sanitize e-mail address
+  $field=filter_var($field, FILTER_SANITIZE_EMAIL);
+  // Validate e-mail address
+  if(filter_var($field, FILTER_VALIDATE_EMAIL)) {
+    return TRUE;
+  } else {
+    return FALSE;
+  }
+}
+?>
+<?php
+// display form if user has not clicked submit
+if (!isset($_POST["submit"])) {
+  ?>
+<form method=post action=<?php echo $_SERVER["PHP_SELF"];?>>
+<div class=form-group>
+<label for=from>Email Address:</label>
+<input style=max-width:50% type=text class=form-control name=from id=from placeholder="Email Address" required>
+</div>
+<div class=form-group>
+<label for=subject>Subject:</label>
+<input style=max-width:50% type=text class=form-control name=subject id=subject placeholder=Subject required>
+</div>
+<div class=form-group>
+<label for=message>Message:</label>
+<textarea cols=40 rows=10 style=max-width:50% class=form-control name=message id=message placeholder=Message... required></textarea>
+</div>
+<button style="background-color: #5bc0de;color: #FFF;" type=submit name=submit class="btn btn-default">Send Email</button>
+</form>
+<?php 
+} else {    // the user has submitted the form
+  // Check if the "from" input field is filled out
+  if (isset($_POST["from"])) {
+    $from = $_POST["from"]; // sender
+    $subject = $_POST["subject"];
+    $message = $_POST["message"];
+    // message lines should not exceed 70 characters (PHP rule), so wrap it
+    $message = wordwrap($message, 70);
+    $from = filter_var($from, FILTER_SANITIZE_EMAIL);
+    if (!filter_var($from, FILTER_VALIDATE_EMAIL) === false) {
+     // send mail
+    mail("l.stocks16494@gmail.com",$subject,$message,"From: $from\n");
+    echo "Thank you for contacting me, I will be back with you shortly.";
+} else {
+    echo("<font color='red'> $from is not a valid email address!</font><br>
+    Click <a href='http://www.lukestocks.co.uk/index#contact'>here</a> to try again.");
+}
+  }
+}
+?>
+<hr class=featurette-divider>
+<footer>
+<div class=row>
+<div class=col-lg-12>
+<p><h4>Find me:</h4></p>
+<a href="http://twitter.com" class="btn btn-social-icon btn-twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+<a href="http://uk.linkedin.com/in/lukestocks" class="btn btn-social-icon btn-linkedin">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  <a href="https://github.com/settings/repositories" class="btn btn-social-icon btn-github">
+    <i class="fa fa-github"></i>
+  </a>
+  <a href="http://facebook.com" class="btn btn-social-icon btn-facebook">
+    <i class="fa fa-facebook"></i>
+  </a><br>
+  </br>
+  <p>Copyright &copy; Luke Stocks 2015</p><br>
+</div>
+</div>
+</footer>
+</div>
+<script src=js/jquery.js></script>
+<script src=js/bootstrap.min.js></script>
+</body>
+</html>
